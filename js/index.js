@@ -11,44 +11,44 @@ var swiper = new Swiper('.swiper-container', {
 
 function showColgate() {
     var images = [
-        "./pro/colgate/1.png",
-        "./pro/colgate/2.png",
-        "./pro/colgate/3.png",
-        "./pro/colgate/4.png",
-        "./pro/colgate/5.png",
-        "./pro/colgate/6.png",
-        "./pro/colgate/7.png",
-        "./pro/colgate/8.png",
-        "./pro/colgate/9.png"
+        "./pro/colgate/1.jpg",
+        "./pro/colgate/2.jpg",
+        "./pro/colgate/3.jpg",
+        "./pro/colgate/4.jpg",
+        "./pro/colgate/5.jpg",
+        "./pro/colgate/6.jpg",
+        "./pro/colgate/7.jpg",
+        "./pro/colgate/8.jpg",
+        "./pro/colgate/9.jpg"
     ];
     img(images, 0);
 }
 function showMLD() {
     var images = [
-        "./pro/mld/1.png",
-        "./pro/mld/2.png",
-        "./pro/mld/3.png",
-        "./pro/mld/4.png",
-        "./pro/mld/5.png",
-        "./pro/mld/6.png",
-        "./pro/mld/7.png",
-        "./pro/mld/8.png",
-        "./pro/mld/9.png",
-        "./pro/mld/10.png",
-        "./pro/mld/11.png"
+        "./pro/mld/1.jpg",
+        "./pro/mld/2.jpg",
+        "./pro/mld/3.jpg",
+        "./pro/mld/4.jpg",
+        "./pro/mld/5.jpg",
+        "./pro/mld/6.jpg",
+        "./pro/mld/7.jpg",
+        "./pro/mld/8.jpg",
+        "./pro/mld/9.jpg",
+        "./pro/mld/10.jpg",
+        "./pro/mld/11.jpg"
     ];
     img(images, 0);
 }
 function showNJGZ() {
     var images = [
-        "./pro/njgz/1.png",
-        "./pro/njgz/2.png",
-        "./pro/njgz/3.png",
-        "./pro/njgz/4.png",
-        "./pro/njgz/5.png",
-        "./pro/njgz/6.png",
-        "./pro/njgz/7.png",
-        "./pro/njgz/8.png"
+        "./pro/njgz/1.jpg",
+        "./pro/njgz/2.jpg",
+        "./pro/njgz/3.jpg",
+        "./pro/njgz/4.jpg",
+        "./pro/njgz/5.jpg",
+        "./pro/njgz/6.jpg",
+        "./pro/njgz/7.jpg",
+        "./pro/njgz/8.jpg"
     ];
     img(images, 0);
 }
