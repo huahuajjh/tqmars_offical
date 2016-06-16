@@ -21,7 +21,7 @@ function showColgate() {
         "./pro/colgate/8.png",
         "./pro/colgate/9.png"
     ];
-    zoomImage(images, 0);
+    img(images, 0);
 }
 function showMLD() {
     var images = [
@@ -37,7 +37,7 @@ function showMLD() {
         "./pro/mld/10.png",
         "./pro/mld/11.png"
     ];
-    zoomImage(images, 0);
+    img(images, 0);
 }
 function showNJGZ() {
     var images = [
@@ -50,7 +50,7 @@ function showNJGZ() {
         "./pro/njgz/7.png",
         "./pro/njgz/8.png"
     ];
-    zoomImage(images, 0);
+    img(images, 0);
 }
 
 function mScroll(id){
